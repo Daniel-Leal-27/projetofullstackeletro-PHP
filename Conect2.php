@@ -57,6 +57,6 @@
          
         }
         ?>
-<a href="Conect.php">Consulte nossa lista de produtos</a>
+<a href="Index.php">Consulte nossa lista de produtos</a>
     </body>
 </html>
